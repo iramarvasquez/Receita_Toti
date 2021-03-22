@@ -1,0 +1,63 @@
+body {
+    width: 883px;
+}
+
+img {
+    height: 374px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 89px;
+    line-height: 79px;
+    color: #FFB300;
+}
+
+.autor {
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: right;
+}
+
+#links {
+    font-size: 21;
+    font-weight: 800;
+    color: #0037B3;
+    text-transform: uppercase;
+    list-style-type: none;
+
+}
+
+h3 {
+    font-size: 34px;
+    color: #FFB300;
+    font-weight: bold;
+
+}
+
+.descripção {
+    font-size: 21;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+}
+
+.porções {
+    line-height: 34px;
+
+}
+
+
+.ingredientes {
+    font-size: 21;
+    font-weight: 600;
+    line-height: 21*1.61;
+}
+
+.preparação {
+    font-size: 21;
+    font-weight: 600;
+    line-height: 21*1.61;
+}
+
